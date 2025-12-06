@@ -1,4 +1,4 @@
-# Prescripto - Hospital Management System
+# Hospital Management System
 
 ## Description
 **Prescripto** is a comprehensive Hospital Management System built on the MERN stack to enhance hospital operations. This system includes features such as secure user authentication, efficient appointment scheduling, patient record management, and real-time communication between doctors and patients. It provides a scalable and user-friendly platform to streamline healthcare workflows and improve the hospital experience.
@@ -75,17 +75,16 @@ Follow these instructions to set up the project locally.
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
 
 # Contributors
-Niraj Kumar [Github](https://github.com/meniraj07)
+Vivek Gaikwad [Github](https://github.com/vivekkgaikwad)
 
 # Deployment Links
-[Prescripto Backend](https://prescriptobackend-4ylq.onrender.com)
+[ Backend](https://prescriptobackend-4ylq.onrender.com)
 
-[Prescripto Patient Panel](https://prescripto-hospital-management-system.vercel.app/)
+[ Patient Panel](https://prescripto-hospital-management-system.vercel.app/)
 
-[Prescripto Admin/Doctor Panel](https://prescripto-hospital-management-system-c29o.vercel.app/)
+[ Admin/Doctor Panel](https://prescripto-hospital-management-system-c29o.vercel.app/)
 
 # Contact
-For any questions or feedback, please contact [Niraj Kumar](https://www.linkedin.com/in/nirajkumar-nk/)
+For any questions or feedback, please contact [Vivek Gaikwad](https://www.linkedin.com/in/vivek-gaikwad-7526b1244/)
 
-# License
-This project is licensed under the MIT License.
+
